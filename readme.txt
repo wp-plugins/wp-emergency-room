@@ -14,7 +14,7 @@ Having problems with your site ? Do you have a WordPress issue/error or task tha
 
 Having problems with your site ? Do you have a WordPress issue/error or task that you need help with ? WP Emergency Room (E.R) can help !
 
-WP Emergency Room makes it easy for any webmaster or site owner to get help from curated WordPress support experts (directly from your dashboard) - for all your WP related fixes and tasks. Simply click the non-obtrusive WPER HELP button (seen in the top right of your dashboard), and ask us for help. This button will be accessible throughout your admin dashboard (all pages) so help is always just one click away. Support at your fingertips.
+[WP Emergency Room](http://wpemergencyroom.com/) makes it easy for any webmaster or site owner to get help from curated WordPress support experts (directly from your dashboard) - for all your WP related fixes and tasks. Simply click the non-obtrusive WPER HELP button (seen in the top right of your dashboard), and ask us for help. This button will be accessible throughout your admin dashboard (all pages) so help is always just one click away. Support at your fingertips.
 
 **Features**
 
