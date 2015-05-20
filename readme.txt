@@ -22,7 +22,7 @@ WP Emergency Room makes it easy for any webmaster or site owner to get help from
 * Compatible with multi-site setups (networks) and WooCommerce 
 * Support button is non-obtrusive and easily accessible throughout your admin
 
-The WP Anti-Proxy plugin is maintained by [YOOPlugins.com](http://yooplugins.com/)
+The WP Emergency Room (E.R) plugin is maintained by [YOOPlugins.com](http://yooplugins.com/)
 
 == Installation ==
 
