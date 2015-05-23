@@ -1,20 +1,20 @@
-=== WP Emergency Room (E.R) ===
+=== WP Emergency Help (Support)  ===
 Contributors: RSPublishing
-Tags:  support, help, edit, tweak, issue, problem, fix, tasks, fixing, bug, assist, fault
+Tags:  support, help, edit, broken, issue, problem, fix, task, fixing, bug, assist, change
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YRPTG9P2QEWJ4 
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Having problems with your site ? Do you have a WordPress issue/error or task that you need help with ? WP Emergency Room can help!
+Having problems with your site? Do you have a WordPress issue/error or task that you need help with? WP Emergency Room can help!
 
 == Description ==
 
-Having problems with your site ? Do you have a WordPress issue/error or task that you need help with ? WP Emergency Room (E.R) can help !
+Having problems with your site? Do you have a WordPress issue/error or task that you need help with? WP Emergency Room (E.R) can help!
 
-[WP Emergency Room](http://wpemergencyroom.com/) makes it easy for any webmaster or site owner to get help from curated WordPress support experts (directly from your dashboard) - for all your WP related fixes and tasks. Simply click the non-obtrusive WPER HELP button (seen in the top right of your dashboard), and ask us for help. This button will be accessible throughout your admin dashboard (all pages) so help is always just one click away. Support at your fingertips.
+The [WP Emergency Room](http://wpemergencyroom.com/) makes it easy for any webmaster or site owner to get help from curated WordPress support experts (directly from your dashboard) - for all your WP related fixes and tasks. Simply click the non-obtrusive WPER HELP button (seen in the top right of your dashboard), and ask us for help. This button will be accessible throughout your admin dashboard (all pages) so help is always just one click away. Support at your fingertips.
 
 **Features**
 
@@ -64,8 +64,13 @@ Absolutely! We take your security and privacy seriously and carefully safegaurd 
 == Changelog ==
 
 = 1.0 =
+
 * initial release
+
+= 1.1 =
+* added index files to plugin directories
+* made changes to readme.txt and 911.php
 
 == Upgrade Notice ==
 
-none
+= 1.1 = 

@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: WP Emergency Room (E.R)
-	Description: WP Emergency Room gives all webmasters and site owners a direct lifeline to WordPress support (directly from your dashboard) - for all your WP related fixes and tasks. Having a problem with your site? Simply activate this plugin, then click the WPER HELP button (seen in the top right of your dashboard), and ask us for help. 
-	Version: 1.0
+	Plugin Name: WP Emergency Room (Help & Support)
+	Description: WP Emergency Room (E.R) makes it easy for any webmaster or site owner to get help from curated WordPress support experts (directly from your dashboard) - for all your WP related fixes and tasks. Having a problem with your site? Simply activate this plugin, then click the WPER HELP button (seen in the top right of your dashboard), and ask us for help. 
+	Version: 1.1
 	Author: WP Emergency Room
 	Author URI: http://WPEmergencyRoom.com
 */
